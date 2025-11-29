@@ -13,7 +13,7 @@ hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@lundun2.nezhasu.com:443?insecur
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@lundun4.nezhasu.com:443?insecure=1&sni=lundun4.nezhasu.com#9%2C10%7C%40meli_proxyy%20%233
 hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#9%2C10%7CAll-%40V2ray_Alpha--3%20%231
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#9%7C%F0%9F%94%9251%40oneclickvpnkeys
-hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#9%2C10%7CAZARBAYJAB12RAY
+hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#9%2C10%7CWiFi-%40V2rayAlpha--2
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%231
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%231
